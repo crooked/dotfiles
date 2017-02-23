@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=true
+Exec=vim %f
+Name=vim
+Comment=Custom definition for vim
+MimeType=text/xml;application/xhtml+xml;text/html;text/plain;
+Categories=Utility;TextEditor;
